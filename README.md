@@ -232,7 +232,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - A Configurable FPGA Implementation of the Tanh Function using DCT Interpolation.
 
 ### 2017 DAC
-- **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice) Loui
+- **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice) 'Loui'
 - **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.** (CAS)
   - *I'm not sure whether the proposed tuning scenario and direction are reasonable enough to find out feasible solutions.* 
 - **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
