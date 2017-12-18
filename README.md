@@ -235,11 +235,11 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **Deep^3: Leveraging Three Levels of Parallelism for Efficient Deep Learning.** (UCSD, Rice) `Loui`
 - **Real-Time meets Approximate Computing: An Elastic Deep Learning Accelerator Design with Adaptive Trade-off between QoS and QoR.** (CAS) `Loui`
   - *I'm not sure whether the proposed tuning scenario and direction are reasonable enough to find out feasible solutions.* 
-- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)
-- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)
-- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)
-- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (GIT)
-- **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.** (UNIST)
+- **Exploring Heterogeneous Algorithms for Accelerating Deep Convolutional Neural Networks on FPGAs.** (PKU, CUHK, SenseTime)`Loui`
+- **Hardware-Software Codesign of Highly Accurate, Multiplier-free Deep Neural Networks.** (Brown University)`Loui`
+- **A Kernel Decomposition Architecture for Binary-weight Convolutional Neural Networks.** (KAIST)`Loui`
+- **Design of An Energy-Efficient Accelerator for Training of Convolutional Neural Networks using Frequency-Domain Computation.** (GIT)`Loui`
+- **New Stochastic Computing Multiplier and Its Application to Deep Neural Networks.** (UNIST)`Loui`
 - **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB)
 - **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
 - **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)
