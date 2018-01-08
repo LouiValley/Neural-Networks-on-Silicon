@@ -243,7 +243,7 @@ This is a collection of conference papers that interest me. The emphasis is focu
 - **TIME: A Training-in-memory Architecture for Memristor-based Deep Neural Networks.** (THU, UCSB)
 - **Fault-Tolerant Training with On-Line Fault Detection for RRAM-Based Neural Computing Systems.** (THU, Duke)
 - **Automating the systolic array generation and optimizations for high throughput convolution neural network.** (PKU, UCLA, Falcon)`Loui`
-- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)
+- **Towards Full-System Energy-Accuracy Tradeoffs: A Case Study of An Approximate Smart Camera System.** (Purdue)`Loui`
 - **Error Propagation Aware Timing Relaxation For Approximate Near Threshold Computing.** (KIT)
 - RESPARC: A Reconfigurable and Energy-Efficient Architecture with Memristive Crossbars for Deep Spiking Neural Networks. (Purdue)
 - Rescuing Memristor-based Neuromorphic Design with High Defects. (University of Pittsburgh, HP Lab, Duke)
