@@ -1,6 +1,7 @@
 # Neural Networks on Silicon
 
-My name is Fengbin Tu. I'm currently pursuing my Ph.D. degree with the Institute of Microelectronics, Tsinghua University, Beijing, China. For more informantion about me and my research, you can go to [my homepage](https://fengbintu.github.io/). One of my research interests is architecture design for deep learning. This is an exciting field where fresh ideas come out every day, so I'm collecting works on related topics. Welcome to join us!
+My name is Jiale Yan. I'm currently a master student in the Institute of Microelectronics, Tsinghua University, Beijing, China. 
+This is a paper list about neural network accelerator.
 
 ## Table of Contents
  - [My Contributions](#my-contributions)
