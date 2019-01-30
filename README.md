@@ -3,6 +3,14 @@
 My name is Jiale Yan. I'm currently a master student in the Institute of Microelectronics, Tsinghua University, Beijing, China. 
 This is a paper list about neural network accelerator.
 
+## My Contributions
+I'm working on energy-efficient architecture design for deep learning. Some featured works are presented here. Hope my new works will come out soon in the near future.
+
+- [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](https://ieeexplore.ieee.org/document/8412607) (**TCAD**)
+  - *This work aims to accelerate a generative network, which includes CONV layers, DeCONV layers and residual blocks.*
+  - *A dual convolution mapping method for CONV and DeCONV layers to make full use of the available PE resources.*
+  - *Precision-adaptive PEs and buffer bandwidth reconfiguration are used to support flexible bitwidths for both inputs and weights in deep neural networks*
+  - * A cross-layer scheduling method is also proposed to avoid extra off-chip memory access in residual block processing*
 ## Table of Contents
  - [My Contributions](#my-contributions)
  - [Conference Papers](#conference-papers)
@@ -40,14 +48,6 @@ This is a paper list about neural network accelerator.
    - [Other Topics](#other-topics)
 
  - [Industry Contributions](#industry-contributions)
-
-## My Contributions
-I'm working on energy-efficient architecture design for deep learning. A deep convoultional neural network architecture (DNA) has been designed with 1~2 orders higher energy efficiency over the state-of-the-art works. I'm trying to improve the architecture for ultra low-power compting. Hope my new works will come out soon in the near future.
-
-- [**Deep Convolutional Neural Network Architecture with Reconfigurable Computation Patterns.**](http://ieeexplore.ieee.org/document/7898402/) (**TVLSI**)
-  - *This is the first work to assign Input/Output/Weight Reuse to different layers of a CNN, which optimizes system-level energy consumption based on different CONV parameters.*
-  - *A 4-level CONV engine is designed to to support different tiling parameters for higher resource utilization and performance.*
-  - *A layer-based scheduling framework is proposed to optimize both system-level energy efficiency and performance.*
 
 ## Conference Papers
 This is a collection of conference papers that interest me. The emphasis is focused on, but not limited to neural networks on silicon. Papers of significance are marked in **bold**. My comments are marked in *italic*.
